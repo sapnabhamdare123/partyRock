@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(236, 236, 236);
+    display: flex;
+    justify-content: center;
+}
+
+main{
+    width: 550px;
+    height: 600px;
+    background-color: white;
+    box-shadow: 0 0 10px 5px rgb(90, 82, 82);
+
+    
+}
+
+header{
+    text-align: center;
+}
+
+.para{
+    margin-left: 18px;
+    font-size: 15px;
+    color: rgb(151, 150, 150);
+}
+
+h3{
+    color: rgb(84, 84, 84);
+}
+
+h2{
+
+    color: darkred;
+}
+
+.box1{
+    background-color:rgb(236, 236, 236);
+    border-left: 6px solid darkred;
+    width: 500px;
+    height: 80px;
+    color: black;
+}
+
+.box1 p {
+    margin-left: 10px;
+}
+
+.p2{
+    color: black;
+}
+
+button {
+    border: none;
+    background-color: darkred;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
